@@ -1,0 +1,43 @@
+Dans les jeux de données "collaborateurs", les filtres suivants ont été employés:
+
+
+La variable "denominationUniteLegale" ne contient aucune valeur contenant les chaînes de caractères "UNIVERSITE" ou "PUBLIC"
+
+La variable "activitePrincipaleUniteLegale sous-classe" ne contient pas les valeurs
+"Activités des organisations patronales et consulaires" et "Nettoyage courant des bâtiments"
+
+
+La variable "activitePrincipaleUniteLegale groupe" ne contient pas les valeurs 
+"Agriculture, sylviculture et pêche" et "Administration publique"
+
+
+
+Documentation utile pour exporter des tableaux filtrés:
+
+https://www.youtube.com/watch?v=p5qJwDzlOm4
+
+
+
+
+Précisions:
+
+
+Les établissements sont les lieux physiques dont disposent une même unité légale.
+
+Un même étalissement peut avoir plusieurs "denominationUsuelleEtablissement" et plusieurs adresses, bien qu'une seule localisation.
+
+Tous les établisement d'une unité légale disposent d'une même "denominationUniteLegale"
+
+chaque établissement peut aussi posséder une à plusieurs enseigne, chacune identifiant l'emplacement physique de l'établissement combinée d'une activité singulière.
+
+
+
+
+NOTES:
+
+Prioriser les domaines de fort coefficient de main d'oeuvre 
+
+
+
+
+

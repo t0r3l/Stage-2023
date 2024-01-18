@@ -1,0 +1,123 @@
+Suite aux multiples interruptions du programme de scrapping 
+
+plusieurs bases de données répartissant les 6428 recherches effectuées on été sauvegardé:
+
+Ces notes ont été créees afin de nettoyer et réunir ces données en la base finalMaps.
+
+la colonne de gauche représente les indexes extrêmes de chaque base dans Excel, celle de droite 
+les indexes python correspondant de la liste de recherches effectuées pour les valeurs associées.
+
+
+d0
+
+d1
+Maps 743
+
+start: 2 : Candy Hoover			Search[0]
+end : 745: Editions Albin Michel	Search[743]
+
+len = 744
+
+
+
+
+d2
+Maps1680
+							
+start: 746 : LES EDITIONS CROQUE FUTUR			Search[744]
+       747 : Whirlpool France SAS			Search[745]
+end: 1682  : Solumat Île de France groupe Vinci		Search[1680]
+
+len = 937
+
+
+
+d3_1
+Maps2480  
+
+start: 1683: UNITED MONOLITHIC SEMICONDUCTORS SAS    Search[1681]          
+end:   2482: FIME				     Search[2480]
+
+len = 800
+
+ 	      
+--------------| SECURED AS df2480 |--------------------
+
+
+
+
+
+
+d1
+Maps2982    CREER
+
+start: 1683   Search[2481]
+end:   2984   Search[2982]
+
+len = 
+
+------------------------------------------------
+
+d2
+Maps4418
+
+start: 2985: Clever Age     	Search[2983]
+end:   4420: Family Sphere	Search[4418]
+
+
+len = 1436
+
+
+
+--------------------------------------------------
+
+d3               CREER
+Maps5216
+
+start: 4421      Search[4419]
+end:   5220      Search[5218]
+
+
+--------------------------------------------------
+
+
+
+
+
+-------------SECURE----------------------------------------
+
+
+d4     
+Maps6381 
+
+start: 5221	Search[5219]
+end:   6383	Search[6381]
+
+len = 1163
+
+
+
+----------------------------------------------------
+
+d5
+Maps6384 CREER
+
+start: Search[6382]
+end:   Search[6384] 
+
+------------------------------------------
+
+d6
+Maps6427
+
+start: Search[6385]: SCHNEIDER
+end:   Search[6427]: NA
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+RNE:Registre nationnal des entreprises
+
+Il recense l’ensemble des entreprises exerçant une activité en France, quelle que soit l’activité exercée ou la forme juridique de l’entreprise.
+
+RCS: registre du commerce et des sociétés
+
+mention RCS + immatriculation de la ville + Siren de l'entreprise
+
+code APE: identification de l'activité principale de l'entreprise
+
+on parle aussi de code NAF:
+
+nomenclature de l'activité française
+
+SIREN: Numéro d'identification unique du répertoire des entreprises
+
+SIRET: Système d'identification du répertoire des établissements
+
+14 chiffres:
+
+9 chiffres du SIREN +
+
+5 Chiffres du NIC: 
+numéro interne de classement Insee
+
+
+
+
