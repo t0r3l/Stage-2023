@@ -5,4 +5,4 @@
 docs/** linguist-documentation
 
 #
-*.ipynb linguist=language=Python
+*.ipynb linguist-language=Python
