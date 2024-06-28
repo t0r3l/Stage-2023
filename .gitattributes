@@ -3,3 +3,6 @@
 
 # Ignore documentation files
 docs/** linguist-documentation
+
+#
+*.ipynb linguist=language=Python
